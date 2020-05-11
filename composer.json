@@ -1,0 +1,14 @@
+{
+  "name": "menriquez/php-make-change",
+  "description": "sample for code challange",
+  "authors": [
+    {
+      "name": "menriquez",
+      "email": "webware-markus@outlook.com"
+    }
+  ],
+  "require": {
+    "vanilla/garden-cli": "~2.0",
+    "menriquez/php-make-change": "1.0"
+  }
+}
